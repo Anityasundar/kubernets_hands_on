@@ -1,4 +1,4 @@
-kind: DeamonSte
+kind: DeamonSet
 apiVersion: apps/v1
 metadata:
   name: nginx-Replicaset
